@@ -2,7 +2,7 @@
 These patterns applies to Spanish language.
 All these patterns have false positives, which means that they requires a manual case by case evaluation. 
 
-###Pattern <word><puntuation><word>
+### Pattern <word><puntuation><word>
 ```
 [\l\u][,\.:;][\l\u]
 ```
